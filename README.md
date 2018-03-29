@@ -1,3 +1,5 @@
+### project 설정
+- app.js : main 파일/엔트리파일/main application (Express에서 권장하는 이름)
 
 Project Task 
 ---
@@ -9,3 +11,4 @@ Project Task
 
 #### 20180323
 - 글쓰기 기능은 페이지내의 에디터로 구현
+- db연동하기 aws에 

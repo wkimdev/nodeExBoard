@@ -2,6 +2,9 @@ var express = require('express');
 var app = express();
 app.use(express.static('public'));
 
+//db연동 db는 뭐하지???
+
+
 app.all('/', function(req, res){
     //req : 요청
     //res : 응답에 대한 객체 전달
